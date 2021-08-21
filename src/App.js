@@ -61,7 +61,7 @@ function App() {
 							value={country}
 							onChange={(e) => setCountry(e.target.value)}
 						>
-							<option value="rwanda">KKKK</option>
+							<option value="rwanda">Rwanda</option>
 							<option value="kenya">Kenya</option>
 							<option value="burundi">Burundi</option>
 							<option value="usa">USA</option>
