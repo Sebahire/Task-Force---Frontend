@@ -1,8 +1,8 @@
-# Task Force Challenge
+# Awesomity Task Force Challenge for Front end developer
 
 ## Installation proccess
 
-- Clone project
+- Clone project on your PC/Laptop
 - cd into project folder
 - Open terminal in that project folder
 - run `yarn install` to install packages
